@@ -25,19 +25,19 @@ msgstr "كلمة السر: "
 
 #: plugins/LightDM/Greeter.cpp:203
 msgid "Username"
-msgstr ""
+msgstr "اسم المستخدم"
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "خطأ في المصادقة"
 
 #: plugins/LightDM/Greeter.cpp:244
 msgid "Invalid password, please try again"
-msgstr ""
+msgstr "كلمة مرور خاطئة, رجاءً أعد المحاولة"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Log In"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Retry"
@@ -45,11 +45,11 @@ msgstr "إعادة المحاولة"
 
 #: plugins/LightDM/UsersModel.cpp:152
 msgid "Login"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 #: plugins/LightDM/UsersModel.cpp:160
 msgid "Guest Session"
-msgstr ""
+msgstr "جلسة ضيف"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:49
 #: plugins/Unity/Launcher/launcheritem.cpp:123
@@ -152,7 +152,7 @@ msgstr "Alt + PrtScr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:80
 msgid "Takes a screenshot of the current window."
-msgstr ""
+msgstr "الحصول على لقطة شاشة للنافذة الحالية"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:88
 msgid "Super + Space"
@@ -172,11 +172,11 @@ msgstr "للتحويل إلى مخطط لوحة المفاتيح السابق."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:114
 msgid "Ctrl + Alt + T"
-msgstr ""
+msgstr "Ctrl + Alt + T"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:119
 msgid "Starts the Terminal application."
-msgstr ""
+msgstr "بدء الطرفية"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:131
 msgid "Launcher"
@@ -208,7 +208,7 @@ msgstr "للتحويل بين التطبيقات عبر شريط بدء التط
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:177
 msgid "Super + 1 to 0"
-msgstr ""
+msgstr "Super + 1 to 0"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:182
 msgid "Same as clicking on a launcher icon."
@@ -220,19 +220,19 @@ msgstr "Super + A"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:195
 msgid "Opens the Application Drawer."
-msgstr ""
+msgstr "فتح درج التطبيق"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:207
 msgid "Scopes"
-msgstr ""
+msgstr "النطاقات"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:214
 msgid "Super (Tap)"
-msgstr ""
+msgstr "Super (Tap)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:219
 msgid "Opens the Scopes home."
-msgstr ""
+msgstr "فتح منزل النطاقات"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:235
 msgid "Switching"
@@ -248,15 +248,15 @@ msgstr "للتبديل بين التطبيقات المفتوحة."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:255
 msgid "Super + W"
-msgstr ""
+msgstr "Super + W"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:260
 msgid "Opens the desktop spread."
-msgstr ""
+msgstr "فتح إنتشار سطح المكتب."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:268
 msgid "Cursor Left or Right"
-msgstr ""
+msgstr "المؤشر اليسار أو اليمين"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:273
 msgid "Moves the focus."
@@ -292,19 +292,19 @@ msgstr "لتصغير او استعادة النافذة الحالية."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:331
 msgid "Ctrl + Super + Left or Right"
-msgstr ""
+msgstr "Ctrl + Super + Left or Right"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:336
 msgid "Semi-maximizes the current window."
-msgstr ""
+msgstr "شبه تكبير النافذة الحالية."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:344
 msgid "Alt + F4"
-msgstr ""
+msgstr "Alt + F4"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:349
 msgid "Closes the current window."
-msgstr ""
+msgstr "إغلاق النافذة الحالية"
 
 #: qml/Components/Lockscreen.qml:212 qml/Greeter/NarrowView.qml:228
 msgid "Return to Call"
@@ -321,22 +321,22 @@ msgstr "موافق"
 #: qml/Components/MediaServices/VideoPlayerControls.qml:44
 #, qt-format
 msgid "%1:%2:%3"
-msgstr ""
+msgstr "1:%2:%3"
 
 #: qml/Components/MediaServices/VideoPlayerControls.qml:49
 #, qt-format
 msgid "%1:%2"
-msgstr ""
+msgstr "%1:%2"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:33
 msgid "Apps may have unsaved data:"
-msgstr ""
+msgstr "التطبيقات قد يكون لديها بيانات غير محفوظة:"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:60
 msgctxt ""
 "Re-dock means connect the device again to an external screen/mouse/keyboard"
 msgid "Re-dock, save your work and close these apps to continue."
-msgstr ""
+msgstr "إعادة القفص يحفظ عملك ويغلق هذه التطبيقات للإكمال"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:67
 msgid "Or force close now (unsaved data will be lost)."
@@ -344,25 +344,28 @@ msgstr "أو أغلق إجباريا الآن (ستفقد أي بيانات غي
 
 #: qml/Components/ModeSwitchWarningDialog.qml:80
 msgid "OK, I will reconnect"
-msgstr ""
+msgstr "حسنا, سأعيد الإتصال"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:81
 msgid "Reconnect now!"
-msgstr ""
+msgstr "إعادة الإتصال الأن"
 
 #: qml/Components/ModeSwitchWarningDialog.qml:94
 msgid "Close all"
-msgstr ""
+msgstr "إغلاق الكل"
 
 #: qml/Components/SharingPicker.qml:54
 msgid "Preview Share Item"
-msgstr ""
+msgstr "عرض العنصر المشترك"
 
 #: qml/Components/VirtualTouchPad.qml:317
 msgid ""
 "Your device is now connected to an external display. Use this screen as a "
 "touch pad to interact with the pointer."
 msgstr ""
+"جهازك الأن مُتصل مع جهاز عرض خارجي. استخدم هذه الشاشة "
+"كالوحة لمس للتفاعل من المؤشر"
+""
 
 #: qml/Components/VirtualTouchPad.qml:327
 msgid "Tap left button to click."
@@ -374,7 +377,7 @@ msgstr "اضغط الزر الأيمن للنقر الأيمن."
 
 #: qml/Components/VirtualTouchPad.qml:351
 msgid "Swipe with two fingers to scroll."
-msgstr ""
+msgstr "اسحب باصبعين للتمرير"
 
 #: qml/Components/VirtualTouchPad.qml:396
 msgid "Find more settings in the system settings."
@@ -405,11 +408,11 @@ msgstr "إضافة إلى المفضلات"
 
 #: qml/Dash/FiltersPopover.qml:61
 msgid "Refine your results"
-msgstr ""
+msgstr "تحسين نتائجك"
 
 #: qml/Dash/FiltersPopover.qml:70
 msgid "Reset"
-msgstr ""
+msgstr "إعادة تعيين"
 
 #: qml/Dash/GenericScopeView.qml:547 qml/Dash/GenericScopeView.qml:718
 msgid "Show less"
@@ -426,11 +429,11 @@ msgstr "بحث"
 
 #: qml/Dash/PageHeaderExtraPanel.qml:67
 msgid "Recent Searches"
-msgstr ""
+msgstr "عمليات البحث الأخيرة"
 
 #: qml/Dash/PageHeaderExtraPanel.qml:78
 msgid "Clear All"
-msgstr ""
+msgstr "مسح الكل"
 
 #: qml/Dash/Previews/PreviewActionCombo.qml:36
 msgid "More..."
@@ -508,44 +511,44 @@ msgstr[5] "برجاء الانتظار %1 دقيقة ثم المحاولة مج�
 
 #: qml/Greeter/Greeter.qml:550
 msgid "Try again"
-msgstr ""
+msgstr "إعادة المحاولة"
 
 #: qml/Greeter/Greeter.qml:551
 msgid "Enter passphrase to unlock"
-msgstr ""
+msgstr "ادخل عبارة المرور لفك القفل"
 
 #: qml/Greeter/Greeter.qml:552
 msgid "Enter passcode to unlock"
-msgstr ""
+msgstr "ادخل رمز العبور لفك القفل"
 
 #: qml/Greeter/NarrowView.qml:228
 msgid "Emergency"
-msgstr ""
+msgstr "حالة طوارئ"
 
 #: qml/Greeter/PromptList.qml:126
 msgid "Passphrase"
-msgstr ""
+msgstr "عبارة المرور"
 
 #: qml/Greeter/PromptList.qml:126
 msgid "Passcode"
-msgstr ""
+msgstr "رمز العبور"
 
 #: qml/Greeter/SessionsList.qml:122
 msgid "Select desktop environment"
-msgstr ""
+msgstr "إختيار بيئة سطح المكتب"
 
 #: qml/Launcher/Drawer.qml:93
 msgid "Search…"
-msgstr ""
+msgstr "بحث..."
 
 #: qml/Launcher/Drawer.qml:128
 msgctxt "Apps sorted alphabetically"
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 #: qml/Launcher/MoreAppsHeader.qml:55
 msgid "More apps in the store"
-msgstr ""
+msgstr "المزيد من التطبيقات في المتجر"
 
 #: qml/Notifications/NotificationMenuItemFactory.qml:124
 msgid "Show password"
@@ -634,7 +637,7 @@ msgstr "فشل، انقل لإعادة المحاولة"
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:210
 msgctxt "Button: Send a reply message"
 msgid "Send"
-msgstr ""
+msgstr "إرسال"
 
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:152
 msgctxt "Label: Hint in message indicator line edit"
@@ -644,35 +647,35 @@ msgstr "رد"
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:209
 msgctxt "Button: Call back on phone"
 msgid "Call back"
-msgstr ""
+msgstr "أتصل مرة أخرى"
 
 #: qml/Panel/PanelMenuPage.qml:92
 msgid "Back"
-msgstr ""
+msgstr "رجوع"
 
 #: qml/Stage/SideStage.qml:76
 msgid "Drag using 3 fingers any application from one window to the other"
-msgstr ""
+msgstr "اسحب أي تطبيق باستخدام ثلاثة أصابع من نافذة إلى أخرى"
 
 #: qml/Tutorial/TutorialLeftLong.qml:49
 msgid "Long swipe from the left edge to open the Application Drawer"
-msgstr ""
+msgstr "سحب طويل من الحافة اليسرى لفتح درج التطبيق"
 
 #: qml/Tutorial/TutorialLeft.qml:47
 msgid "Short swipe from the left edge to open the launcher"
-msgstr ""
+msgstr "سحب قصير من من الحافة اليسرى لفتح قائمة التطبيقات"
 
 #: qml/Tutorial/TutorialRight.qml:55
 msgid "Push your mouse against the right edge to view your open apps"
-msgstr ""
+msgstr "ادفع فأرتك باتجاه الحافة اليمنى لعرض تطبيقاتك المفتوحة"
 
 #: qml/Tutorial/TutorialRight.qml:56
 msgid "Swipe from the right edge to view your open apps"
-msgstr ""
+msgstr "سحب من الواجهة اليمنى لعرض تطبيقاتك المفتوحة"
 
 #: qml/Tutorial/TutorialTop.qml:53
 msgid "Swipe from the top edge to access notifications and quick settings"
-msgstr ""
+msgstr "سحب من الحافة العليا للوصول للإشعارات و الإعدادات السريعة"
 
 #: qml/Wizard/Page.qml:54
 msgctxt "Button: Go back one page in the Wizard"
@@ -681,7 +684,7 @@ msgstr "عودة"
 
 #: qml/Wizard/Pages/10-welcome.qml:28
 msgid "Language"
-msgstr ""
+msgstr "اللغة"
 
 #: qml/Wizard/Pages/10-welcome.qml:173 qml/Wizard/Pages/20-keyboard.qml:152
 #: qml/Wizard/Pages/30-wifi.qml:206 qml/Wizard/Pages/40-location.qml:271
@@ -691,19 +694,19 @@ msgstr ""
 #: qml/Wizard/Pages/passcode-desktop.qml:142
 #: qml/Wizard/Pages/password-set.qml:142
 msgid "Next"
-msgstr ""
+msgstr "التالي"
 
 #: qml/Wizard/Pages/20-keyboard.qml:31
 msgid "Select Keyboard"
-msgstr ""
+msgstr "اختر لوحة المفاتيح"
 
 #: qml/Wizard/Pages/20-keyboard.qml:71
 msgid "Keyboard language"
-msgstr ""
+msgstr "لغة لوحة المفاتيح"
 
 #: qml/Wizard/Pages/20-keyboard.qml:93
 msgid "Keyboard layout"
-msgstr ""
+msgstr "تخطيط لوحة المفاتيح"
 
 #: qml/Wizard/Pages/20-keyboard.qml:152 qml/Wizard/Pages/30-wifi.qml:206
 #: qml/Wizard/Pages/60-account.qml:65 qml/Wizard/Pages/sim.qml:101
@@ -716,110 +719,113 @@ msgstr "اتصل بالواي فاي"
 
 #: qml/Wizard/Pages/30-wifi.qml:131
 msgid "Connected"
-msgstr ""
+msgstr "مُتصِل"
 
 #: qml/Wizard/Pages/30-wifi.qml:164
 msgid "Available Wi-Fi networks"
-msgstr ""
+msgstr "شبكات الواي فاي المتاحة"
 
 #: qml/Wizard/Pages/30-wifi.qml:165
 msgid "No available Wi-Fi networks"
-msgstr ""
+msgstr "لا يوجد شبكات واي فاي متاحة"
 
 #: qml/Wizard/Pages/40-location.qml:27
 msgid "Location Services"
-msgstr ""
+msgstr "خدمات الموقع"
 
 #: qml/Wizard/Pages/40-location.qml:83
 msgid ""
 "Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
 "(recommended)"
 msgstr ""
+"استخدم نظام تحديد المواقع, نقاط الواي فاي و شبكة الهاتف المحمول المجهول لتحديد الموقع"
+"(موصى به)"
+""
 
 #: qml/Wizard/Pages/40-location.qml:105
 #, qt-format
 msgid "By selecting this option you agree to the Nokia HERE %1."
-msgstr ""
+msgstr "Nokia HERE %1 باختيار هذا الخيار أنت توافق على "
 
 #: qml/Wizard/Pages/40-location.qml:106
 msgctxt "part of: Nokia HERE terms and conditions"
 msgid "terms and conditions"
-msgstr ""
+msgstr "الأحكام والشروط"
 
 #: qml/Wizard/Pages/40-location.qml:160
 msgid "GPS only"
-msgstr ""
+msgstr "نظام تحديد المواقع فقط"
 
 #: qml/Wizard/Pages/40-location.qml:214
 msgid "Don't use my location"
-msgstr ""
+msgstr "لا تستخدم موقعي"
 
 #: qml/Wizard/Pages/40-location.qml:260
 msgid "You can change it later in System Settings."
-msgstr ""
+msgstr "تستطيع تعديلها لاحقاً في إعدادات النظام"
 
 #: qml/Wizard/Pages/50-timezone.qml:30
 msgid "Time Zone"
-msgstr ""
+msgstr "المنطقة الزمنية"
 
 #: qml/Wizard/Pages/50-timezone.qml:182
 msgid "Enter your city"
-msgstr ""
+msgstr "ضع مدينتك"
 
 #: qml/Wizard/Pages/60-account.qml:24
 msgid "Personalize Your Device"
-msgstr ""
+msgstr "تخصيص جهازك"
 
 #: qml/Wizard/Pages/60-account.qml:48
 msgid "Preferred Name"
-msgstr ""
+msgstr "الاسم المفضل"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:40
 msgid "Lock Screen"
-msgstr ""
+msgstr "شاشة القفل"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:102
 msgctxt "Label: Type of security method"
 msgid "Create new password"
-msgstr ""
+msgstr "إنشاء كلمة مرور جديدة"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:104
 msgctxt "Label: Type of security method"
 msgid "Create passcode (numbers only)"
-msgstr ""
+msgstr "إنشاء رمز مرور (أرقام فقط)"
 
 #: qml/Wizard/Pages/70-passwd-type.qml:106
 msgctxt "Label: Type of security method"
 msgid "No lock code"
-msgstr ""
+msgstr "لا يوجد رمز قفل"
 
 #: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
 msgid "Privacy Policy"
-msgstr ""
+msgstr "سياسة الخصوصية"
 
 #: qml/Wizard/Pages/75-report-check.qml:26
 msgid "Help Us Improve"
-msgstr ""
+msgstr "ساعدنا لنتحسن"
 
 #: qml/Wizard/Pages/75-report-check.qml:59
 msgid "Improve system performance by sending us crashes and error reports."
-msgstr ""
+msgstr "حسّن أداء النظام بإرسال تقارير الأخطاء و حوادث التحطم لنا"
 
 #: qml/Wizard/Pages/75-report-check.qml:60
 msgid "Privacy policy"
-msgstr ""
+msgstr "سياسة الخصوصية"
 
 #: qml/Wizard/Pages/80-finished.qml:89
 msgid "Welcome to Ubuntu"
-msgstr ""
+msgstr "مرحبا في أبونتو"
 
 #: qml/Wizard/Pages/80-finished.qml:104
 msgid "You are ready to use your device now"
-msgstr ""
+msgstr "أنتَ مستعد لاستخدام جهازك الأن"
 
 #: qml/Wizard/Pages/80-finished.qml:124
 msgid "Get Started"
-msgstr ""
+msgstr "البدء"
 
 #: qml/Wizard/Pages/here-terms.qml:25
 msgid "Terms & Conditions"
@@ -827,7 +833,7 @@ msgstr "الشروط والأحكام"
 
 #: qml/Wizard/Pages/here-terms.qml:69
 msgid "Your device uses positioning technologies provided by HERE."
-msgstr ""
+msgstr "جهازك يستخدم تقنيات تحديد مواقع مزودة من قبل هنا."
 
 #: qml/Wizard/Pages/here-terms.qml:81
 msgid ""
@@ -835,21 +841,28 @@ msgid ""
 "collects information about nearby cell towers and Wi-Fi hotspots around your "
 "current location whenever your position is being found."
 msgstr ""
+"لتزويدك بخدمات تحديد المواقع وتحسين كفائتها, هنا"
+"جمع المعلومات حول أبراج الشبكة القريبة ونقاط الواي فاي حول"
+"موقعك عندما يتم إيجاد مكانك."
+""
 
 #: qml/Wizard/Pages/here-terms.qml:93
 msgid ""
 "The information collected is used to analyze the service and to improve the "
 "use of service, but not to identify you personally."
 msgstr ""
+"المعلومات المجموعة تستخدم لتحليل الخدمة وتحسين "
+"استخدام الخدمة ولكنها ليست للتعرف عليك شخصياً."
+""
 
 #: qml/Wizard/Pages/here-terms.qml:106
 #, qt-format
 msgid "By continuing, you agree to the HERE platform %1 and %2."
-msgstr ""
+msgstr "عند الإكمال أنت توافق على هنا المنصة %1 و %2"
 
 #: qml/Wizard/Pages/here-terms.qml:107
 msgid "Service Terms"
-msgstr ""
+msgstr "شروط الخدمة"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:43
 #: qml/Wizard/Pages/passcode-desktop.qml:97
@@ -858,109 +871,109 @@ msgstr "تأكيد الرمز السري"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgid "Incorrect passcode."
-msgstr ""
+msgstr "رمز عبور خاطئ"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:45
 msgctxt "Enter the passcode again"
 msgid "Please re-enter."
-msgstr ""
+msgstr "رجاءً أعد الإدخال"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:31
 msgid "Lock Screen Passcode"
-msgstr ""
+msgstr "رمز عبور شاشة القفل"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:61
 msgid "Enter 4 numbers to setup your passcode"
-msgstr ""
+msgstr "ادخل أربعة أرقام لإعداد رمز العبور خاصتك"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:77
 #: qml/Wizard/Pages/passcode-set.qml:54
 msgid "Choose passcode"
-msgstr ""
+msgstr "اختر رمز العبور"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:127
 msgid "Passcode too short"
-msgstr ""
+msgstr "رمز العبور قصير جداً"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:129
 msgid "Passcodes match"
-msgstr ""
+msgstr "رموز العبور متطابقة"
 
 #: qml/Wizard/Pages/passcode-desktop.qml:131
 msgid "Passcodes do not match"
-msgstr ""
+msgstr "رمز العبور ليست متطابقة"
 
 #: qml/Wizard/Pages/passcode-set.qml:62
 msgid "Passcode must be 4 characters long"
-msgstr ""
+msgstr "رمز المرور يجب أن يكون طوله أربعة حروف"
 
 #: qml/Wizard/Pages/password-set.qml:31
 msgid "Lock Screen Password"
-msgstr ""
+msgstr "كلمة مرور شاشة القفل"
 
 #: qml/Wizard/Pages/password-set.qml:62
 msgid "Enter at least 8 characters"
-msgstr ""
+msgstr "ادخل على الأقل ثمانية حروف"
 
 #: qml/Wizard/Pages/password-set.qml:74
 msgid "Choose password"
-msgstr ""
+msgstr "اختيار كلمة المرور"
 
 #: qml/Wizard/Pages/password-set.qml:104
 msgid "Confirm password"
-msgstr ""
+msgstr "تأكيد كلمة المرور"
 
 #: qml/Wizard/Pages/sim.qml:27
 msgid "No SIM card installed"
-msgstr ""
+msgstr "لا يوجد شريحة هاتف أُضيفت"
 
 #: qml/Wizard/Pages/sim.qml:54
 msgid "SIM card added"
-msgstr ""
+msgstr "شريحة الهاتف أُضيفت"
 
 #: qml/Wizard/Pages/sim.qml:55
 msgid "You must restart the device to access the mobile network."
-msgstr ""
+msgstr "يجب عليك إعادة تشغيل الجهاز للوصول إلى شبكة الهاتف"
 
 #: qml/Wizard/Pages/sim.qml:59
 msgid "Restart"
-msgstr ""
+msgstr "إعادة تشغيل"
 
 #: qml/Wizard/Pages/sim.qml:78
 msgid "You won’t be able to make calls or use text messaging without a SIM."
-msgstr ""
+msgstr "لن تكون قادراً على إجراء إتصالات أو إرسال رسائل نصيّة من دون شريحة هاتف"
 
 #: qml/Wizard/Pages/sim.qml:90
 msgid "To proceed with no SIM tap Skip."
-msgstr ""
+msgstr "للمعالجة من دون شريحة هاتف أضغط على متابعة"
 
 #: qml/Wizard/PasswordMeter.qml:87
 msgid "Password too short"
-msgstr ""
+msgstr "كلمة المرور قصيرة جداً"
 
 #: qml/Wizard/PasswordMeter.qml:89
 msgid "Passwords match"
-msgstr ""
+msgstr "كلمات المرور متطابقة"
 
 #: qml/Wizard/PasswordMeter.qml:91
 msgid "Passwords do not match"
-msgstr ""
+msgstr "كلمات المرور غير متطابقة"
 
 #: qml/Wizard/PasswordMeter.qml:95
 msgid "Strong password"
-msgstr ""
+msgstr "كلمة مرور قوية"
 
 #: qml/Wizard/PasswordMeter.qml:97
 msgid "Fair password"
-msgstr ""
+msgstr "كلمة مرور متوسطة"
 
 #: qml/Wizard/PasswordMeter.qml:99
 msgid "Weak password"
-msgstr ""
+msgstr "كلمة مرور ضعيفة"
 
 #: qml/Wizard/PasswordMeter.qml:101
 msgid "Very weak password"
-msgstr ""
+msgstr "كلمة مرور ضعيفة جداً"
 
 #~ msgid "Confirm"
 #~ msgstr "التأكيد"
